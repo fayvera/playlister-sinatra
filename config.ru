@@ -12,8 +12,7 @@ end
 
 use Rack::MethodOverride
 
-use Rack::Session::Cookie
-use Rack::Flash
+
 use GenresController
 use ArtistsController
 use SongsController
